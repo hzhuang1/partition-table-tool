@@ -38,6 +38,7 @@ enum {
 #define PART_XLOADER_RESERVED1         "xloader_reserved1"
 #define PART_XLOADER_RESERVED2         "xloader_reserved2"
 #define PART_FW_LPM3                   "fw_lpm3"
+#define PART_FW_HIFI                   "fw_hifi"
 #define PART_FRP                       "frp"
 #define PART_FASTBOOT                  "fastboot"
 #define PART_NVME                      "nvme"
